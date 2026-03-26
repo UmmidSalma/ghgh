@@ -1,0 +1,7 @@
+__pycache__/
+*.whl
+*.pyc
+*.h5
+*.hdf5
+.ipynb_checkpoints/
+.env
