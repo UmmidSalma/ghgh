@@ -1,4 +1,4 @@
-# UltraCamNet: Consistent Cancer Detection in Digital Pathology
+# UltraCamNet: Explainable AI for Early Cancer Detection in Digital Histopathology
 
 This repository contains the implementation of **UltraCamNet-V5**, a convolutional neural network architecture developed for robust and accurate detection of metastatic tissue in histopathology images (PatchCamelyon dataset). This work has been accepted to the **icAMC 2026 conference**.
 
@@ -39,4 +39,4 @@ Explainability is crucial in automated medical diagnostics. We integrate **Grad-
 - NumPy, OpenCV, Matplotlib, h5py
 
 ## Acknowledgments
-We are thrilled to share that this research has been successfully peer-reviewed and **accepted to the icAMC 2026 conference**.
+We are thrilled to share that this research has been successfully peer-reviewed and **accepted to the ICAMC 2026 conference**.
